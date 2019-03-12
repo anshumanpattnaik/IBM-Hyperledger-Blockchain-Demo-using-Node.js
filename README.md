@@ -1,10 +1,15 @@
 # IBM-Hyperledger-Blockchain-Demo using Node.js
-
-##Overview 
 This is a sample demonstration of IBM-Hyperledger-Blockchain platform, in this demo, you can able to setup blockchain rest-api locally.
 
+# For installation follow this below step
 <div>
-   <img src="/Screenshots/blockchain-rest-api.png" alt="IMAGE ALT TEXT" width="300">
+   <img src="/Screenshots/installation.png" alt="IMAGE ALT TEXT" width="800">
+</div>
+
+
+# Demo
+<div>
+   <img src="/Screenshots/blockchain-rest-api.png" alt="IMAGE ALT TEXT" width="800">
 </div>
 
 For Installing the developemt environment you can visit this link below
